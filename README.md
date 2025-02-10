@@ -1,4 +1,4 @@
-Here’s README file for project **Food App** project:  
+ 
 
 
 # Food App
